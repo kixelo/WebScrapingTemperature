@@ -1,0 +1,2 @@
+home:
+  css: '#temperatureId' #copy selector("displaytimer") from inspecting html code
