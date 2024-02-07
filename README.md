@@ -20,4 +20,4 @@ import sqlite3
 After running "main.py", script will scrape temperature and date and save them in the SQL database.
 ```
 ## App Image:
-<img src="https://github.com/kixelo/Weather-Forecast-API/blob/main/sqlite_temperature.PNG" />
+<img src="https://github.com/kixelo/WebScrapingTemperature/blob/master/sqlite_temperature.PNG" />
