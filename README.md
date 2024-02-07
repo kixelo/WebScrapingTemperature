@@ -17,7 +17,7 @@ import sqlite3
 
 ## Script results:
 ```
-After running "main.py", script will scrape temperature and date and save them in the SQL database.
+After running "main.py", script will scrape temperature and save it in SQL database, together with current date and time.
 ```
 ## App Image:
 <img src="https://raw.githubusercontent.com/kixelo/WebScrapingTemperature/master/sqlite_temperature.PNG?token=GHSAT0AAAAAACMKCDIRIUS3GW5CDG6NSSLMZODXJNQ" />
